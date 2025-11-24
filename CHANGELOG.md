@@ -1,7 +1,10 @@
 ## [Unreleased]
+* no unreleased changes
+
+## 2.3.3 / 2025-11-24
 ### Fixed
-* Support Ruby 3.4, Rails 8.0
-* Fix ruby 3.4 frozen string literal warnings
+* Support Ruby 3.4, Rails 8.0 [backported from v2.4.3]
+* Fix ruby 3.4 frozen string literal warnings [backported from v2.4.3]
 
 ## 2.3.2 / 2024-11-21
 ### Fixed
