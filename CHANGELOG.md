@@ -1,6 +1,23 @@
 ## [Unreleased]
 * no unreleased changes
 
+## 2.4.3 / 2025-11-07
+### Fixed
+* Support Ruby 3.4, Rails 8.0
+* Fix ruby 3.4 frozen string literal warnings
+
+## 2.4.2 / 2025-03-23
+* fix link with icon button style
+
+## 2.4.1 / 2025-02-03
+### Fixed
+* fix bootstrap 5 data attribute with BS namespace
+
+## 2.4.0 / 2025-01-31
+### Changed
+* New views with bootstrap 5 styles
+* Switch to bootstrap-icons as glyphicon no longer available in bootstrap 5
+
 ## 2.3.3 / 2025-11-24
 ### Fixed
 * Support Ruby 3.4, Rails 8.0 [backported from v2.4.3]
