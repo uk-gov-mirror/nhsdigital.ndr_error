@@ -18,6 +18,11 @@
 * New views with bootstrap 5 styles
 * Switch to bootstrap-icons as glyphicon no longer available in bootstrap 5
 
+## 2.3.3 / 2025-11-24
+### Fixed
+* Support Ruby 3.4, Rails 8.0 [backported from v2.4.3]
+* Fix ruby 3.4 frozen string literal warnings [backported from v2.4.3]
+
 ## 2.3.2 / 2024-11-21
 ### Fixed
 * Support Ruby 3.2 and 3.3, Rails 7.1 and 7.2. Drop support for Ruby 2.7, Rails 6.0
